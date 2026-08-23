@@ -8,6 +8,9 @@
 - Student ID: 105551480
 - Tutor:
 - Tutorial Session:
-- Semester:
+- Semester: September - November 2026
 ---
 ### Instructions:
+Most of the files are written in .md format, just click on to see the details
+
+If any Python file is included, please read the README files in that folder for execution guides
